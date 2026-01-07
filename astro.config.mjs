@@ -9,6 +9,6 @@ export default defineConfig({
   redirects: {
     "/blog": "/",
   },
-  site: "https://goalritmo.com",
+  site: "https://famaf.algoritmos1.com",
   integrations: [tailwind(), sitemap(), icon()],
 });

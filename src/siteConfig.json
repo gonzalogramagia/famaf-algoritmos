@@ -1,8 +1,8 @@
 {
   "name": "Baymax",
-  "bio": "💛",
+  "bio": "FAMAF 💛",
   "profilePicture": "/profile-picture.jpg",
-  "url": "https://goalritmo.com",
+  "url": "https://famaf.algoritmos1.com",
   "blog": true,
   "iconLinks": [
     {
@@ -25,12 +25,12 @@
     {
       "id": "1728534585739",
       "title": "🎵 Música para Estudiar",
-      "url": "https://www.youtube.com/playlist?list=PLLswL1pDm9IwZ04PHG4pRf1W-0EfWzq6u"
+      "url": "https://youtube.com/playlist?list=PLLswL1pDm9IwZ04PHG4pRf1W-0EfWzq6u"
     },
     {
       "id": "1728534585740",
       "title": "🔗 Bienestar Estudiantil →",
-      "url": "https://bien.estate"
+      "url": "https://salud.algoritmos1.com"
     },
     {
       "id": "1728534585741",
